@@ -22,7 +22,7 @@ Cache size (MB): 1.5
 ```
 
 Cache associativity fluctuates in the 11-12 range, but cache size fluctuates quite a bit
-depending on which stride the last jump has happened.
+depending on which stride was being tested when the last jump has happened.
 
 ### `maxData`
 
